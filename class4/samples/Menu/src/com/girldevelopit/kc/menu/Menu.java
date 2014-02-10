@@ -15,7 +15,6 @@ public class Menu {
 
     public Menu(String name) {
         this.name = name;
-        items = new ArrayList<Item>();
     }
 
     public void addItem(Item item) {
