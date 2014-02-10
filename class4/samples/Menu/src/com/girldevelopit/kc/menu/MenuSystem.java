@@ -16,7 +16,7 @@ public class MenuSystem {
         MenuPrinter printer = new ConsolePrinter();
 
         //Create all of our menus
-        TemporalMenu valentinesMenu = myMenus.createValentinesMenu();
+        TemporalMenu valentinesMenu = myMenus.createValentinesMenu;
         TemporalMenu breakfastMenu = myMenus.createBreakfastMenu();
         Menu regularMenu = myMenus.createMenu();
 
